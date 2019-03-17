@@ -38,13 +38,13 @@ https://www.seek.com.au/job/38572366 (SEEK, 2019)
 # Profile
 Here are my three MBTI tests' results below.
 
-- ![Test result 1](https://raw.githubusercontent.com/annabelle131/assignment1/master/my-portfolio_files/image001.png)
+- ![Test result 1](https://raw.githubusercontent.com/annabelle131/COSC2196A1/master/my-portfolio_files/image001.png)
  (Educationplanner.org, 2019)
 
-- ![Test result 1](https://raw.githubusercontent.com/annabelle131/assignment1/master/my-portfolio_files/image002.png)
+- ![Test result 1](https://raw.githubusercontent.com/annabelle131/COSC2196A1/master/my-portfolio_files/image002.png)
  (Educationplanner.org, 2019)
 
-- ![Test result 1](https://raw.githubusercontent.com/annabelle131/assignment1/master/my-portfolio_files/image003.png)
+- ![Test result 1](https://raw.githubusercontent.com/annabelle131/COSC2196A1/master/my-portfolio_files/image003.png)
  (Humanmetrics.com, 2019)
 
 - The results of these tests mean I am a visual learner and an empathy ISFP.
