@@ -71,10 +71,15 @@ This game is easy to play; it can be provided to many ages people. As long as yo
 I strongly believe there is an obvious need for a mind and mood app collecting mental wellness data. And now, I have already developed a prototype of this Wellness technology project. Implementing this technology project to enhance users’ experience and interface is my next goal. I’m planning to make it online by March 2020. If the WellBeing Community project is successful, I believe it can help people to manage their mental wellness, hence it may be preventing mental problem issues.
 
 # Reference
-- Educationplanner.org. (2019). What's Your Learning Style? 20 Questions. Retrieved from: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=1&V=15&T=4http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=1&V=15&T=
+- Educationplanner.org. (2019). What's Your Learning Style? 20 Questions. [online] Available at: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=7&T=6 [Accessed 17 Mar. 2019].
 
-- Humanmetrics.com. (2019). ISFP: Leverage Your Personality Type. Retrieved from: http://www.humanmetrics.com/personality/isfp-type?EI=-19&SN=1&TF=-59&JP=-31
 
-- SEEK. (2019). Retrieved from: https://www.seek.com.au/job/38572366?searchrequesttoken=e895baf1-eba2-4e77-a8a1-46b3d8c3300a&type=standout
 
-- Truity. (2019). The Big Five Personality Test. Retrieved from: https://www.truity.com/personality-test/11697/test-results/7329993
+- Humanmetrics.com. (2019). ISFP: Leverage Your Personality Type. [online] Available at: http://www.humanmetrics.com/personality/isfp-type?EI=-19&SN=1&TF=-59&JP=-31 [Accessed 17 Mar. 2019].
+
+
+- SEEK. (2019). [online] Available at: https://www.seek.com.au/job/38572366?searchrequesttoken=e895baf1-eba2-4e77-a8a1-46b3d8c3300a&type=standout [Accessed 17 Mar. 2019].
+
+
+- Truity. (2019). The Big Five Personality Test. [online] Available at: https://www.truity.com/personality-test/11697/test-results/7329993 [Accessed 17 Mar. 2019].
+
